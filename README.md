@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhargavHegde25
-- 👀 I’m interested in UI Design.
-- 🌱 I’m currently persuing MCA(Master Of Computer Application)
+- 👀 I’m currently working as Backend Developer.
+- 🌱 I have completed MCA(Master Of Computer Application)
 - 📫 How to reach me -> bhegde779@gmail.com
 
 <!---
